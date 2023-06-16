@@ -7,7 +7,7 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1
 
 https://raw.githubusercontent.com/yourduskquibbles/webannoyances/master/ultralist.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+#https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
 https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/abp_light.txt
 
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
